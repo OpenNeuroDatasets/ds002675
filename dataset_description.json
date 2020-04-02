@@ -1,6 +1,12 @@
 {
-  "Name": "The language network reemerges during recovery from severe traumatic brain injury",
-  "BIDSVersion": "1.1.1",
-  "License": "CC0",
-  "Authors": ["Brian J. Coffey", "Zachary D. Threlkeld", "Yelena G. Bodien", "Brian L. Edlow"]
+    "Name": "The language network reemerges during recovery from severe traumatic brain injury",
+    "BIDSVersion": "1.1.1",
+    "License": "CC0",
+    "Authors": [
+        "Brian J. Coffey",
+        "Zachary D. Threlkeld",
+        "Yelena G. Bodien",
+        "Brian L. Edlow"
+    ],
+    "HowToAcknowledge": "This work was supported by the NIH National Institute of Neurological Disorders and Stroke      (K23NS094538,      R21NS109627,      RF1NS115268),      NIH      Director\u2019s      Office      (DP2HD101400),  James  S.  McDonnell  Foundation,  Rappaport  Foundation,  and  Tiny  Blue  Dot  Foundation. "
 }
